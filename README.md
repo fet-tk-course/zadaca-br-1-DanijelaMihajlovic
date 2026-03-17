@@ -11,6 +11,12 @@ GitHub username: DanijelaMihajlovic
 
 ---
 
+## Uvod
+
+Imam 23 godine. U slobodno vrijeme volim svirati klavir. Također, jako volim putovati.
+
+---
+
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
