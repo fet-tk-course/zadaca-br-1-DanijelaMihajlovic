@@ -7,7 +7,7 @@ Predmet: Razvoj telekomunikacijske programske podrške
 
 Ime i prezime: Danijela Mihajlović
 
-GitHub username:DanijelaMihajlovic
+GitHub username: DanijelaMihajlovic
 
 ---
 
